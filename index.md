@@ -3,7 +3,8 @@
 
     </head>
     <body>
-    <h1> Hotel Mario <h1>
+    <h1> Hotel Mario <br>
+    I have nothing to do, help.<h1>
     <p> <b>Bowser</b>: (<i>laughs</i>) <br>
 <b>Mario</b>: Nice of the princess to invite us over for a picnic, eh, Luigi? <br>
 <b>Luigi</b>: I hope she made lots of spaghetti! <br>
