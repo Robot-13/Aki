@@ -4,7 +4,7 @@
     </head>
     <body>
     <h1> Hotel Mario <h1>
-    <p> <b>Bowser</b>: (<i>laughs</i?) <br>
+    <p> <b>Bowser</b>: (<i>laughs</i>) <br>
 <b>Mario</b>: Nice of the princess to invite us over for a picnic, eh, Luigi? <br>
 <b>Luigi</b>: I hope she made lots of spaghetti! <br>
 <b>M</b>: Luigi, look! It's from Bowser. “Dear pesky plumbers: The Koopalings and I have taken over the Mushroom Kingdom. The Princess is now a permanent guest at one of my seven Koopa hotels. I dare you to find her if you can.” We've got to find the Princess. <br>
@@ -57,6 +57,4 @@
 <b>B</b>: (<i>laughs</i>) <br>
 <b>L</b>: That's that creepy Bowser's laugh. <br>
 <b>M</b>: Look! This is it, Luigi. Remember, where there's smoke... <br>
-<b>L</b>: There's fire. </p>
-    </body>
-  </html>
+<b>L</b>: There's fire.
